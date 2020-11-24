@@ -1,0 +1,2 @@
+# LiquibaseTS
+LiquibaseFunctionalTestScript
